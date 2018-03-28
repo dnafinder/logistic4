@@ -1,5 +1,5 @@
 # logistic4
-# Four parameters logistic regression <br/>
+Four parameters logistic regression <br/>
 One big holes into MatLab cftool function is the absence of Logistic Functions. In particular, The Four Parameters Logistic Regression or 4PL nonlinear regression model is commonly used for curve-fitting analysis in bioassays or immunoassays such as ELISA, RIA, IRMA or dose-response curves. It is characterized by it’s classic “S” or sigmoidal shape that fits the bottom and top plateaus of the curve, the EC50, and the slope factor (Hill's slope). This curve is symmetrical around its inflection point.
 The 4PL equation is:<br/>
 F(x) = D+(A-D)/(1+(x/C)^B)<br/>
